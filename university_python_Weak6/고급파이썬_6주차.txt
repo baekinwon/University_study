@@ -1,0 +1,5 @@
+1 Random
+
+Random 모듈
+- 난수 생성기, 랜덤한 수 만들기
+- 사용을 위하여 import random 필요
